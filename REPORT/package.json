@@ -9,7 +9,7 @@
     "cheerio": "^1.0.0-rc.3",
     "html-to-pdfmake": "^1.2.0",
     "html2json": "^1.0.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsdom": "^15.2.1",
     "node-fetch": "^2.6.0",
     "node-ncbi": "^0.7.0",
